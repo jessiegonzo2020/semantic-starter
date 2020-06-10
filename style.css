@@ -1,0 +1,5 @@
+/*By simply calling out an attribute with No ID(#) or Class(.) you give this CSS style to all attributes of DIV*/
+/*This code goes in your style.css file.*/
+div {
+    border: 1px solid black;
+}
